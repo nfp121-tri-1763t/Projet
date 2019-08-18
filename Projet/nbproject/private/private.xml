@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/Projet.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/adapter/INotification.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/adapter/XmlNotification.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/adapter/Message.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/adapter/NotificationAdapter.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/models/Notification.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/adapter/IFormatNotification.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/Observer/NurseObserver.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/adapter/TextNotification.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/composite/NotRoom.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/adapter/JSonNotification.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/Observer/RelativesObserver.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/view/PatientView.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/composite/Leaf.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Projet/src/projet/Observer/DoctorObserver.java</file>
+        </group>
+    </open-files>
+</project-private>
